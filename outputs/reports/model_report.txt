@@ -1,0 +1,12 @@
+Customer Churn Prediction Report
+===============================
+
+Algorithms Used:
+1. Logistic Regression
+2. SVM
+3. XGBoost
+
+Best Accuracy: 73.6%
+
+Conclusion:
+Logistic Regression achieved the highest accuracy and was selected as the final model.
